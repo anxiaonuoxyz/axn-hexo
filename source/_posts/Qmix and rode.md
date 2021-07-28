@@ -1,3 +1,6 @@
+---
+title: Qmix and RODE article read
+---
 https://www.zhihu.com/question/319565677?sort=created 如何理解强化学习中的折扣率？
 
 
